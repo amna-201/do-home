@@ -1,7 +1,8 @@
 .app-container {
   font-family: 'Arial', sans-serif;
   padding: 20px;
-  background-image:url('https://pbs.twimg.com/media/BSy0-nSIQAAs6aq.jpg');
+  background-color: aliceblue;
+
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
